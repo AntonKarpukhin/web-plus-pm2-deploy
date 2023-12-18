@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.karpukhin.nomoredomainsmonster');
+  const api = new Api('https://api.karpukhin.nomoredomainsmonster.ru');
 
   export default api;
